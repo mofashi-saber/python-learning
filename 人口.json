@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "country": "China",
+    "year": 2020,
+    "unit": "万人",
+    "source": "第七次全国人口普查"
+  },
+  "regions": {
+    "east": {
+      "广东省": { "population": 12684 },
+      "江苏省": { "population": 8475 },
+      "山东省": { "population": 10170 },
+      "浙江省": { "population": 6457 },
+      "福建省": { "population": 4154 },
+      "上海市": { "population": 2487 },
+      "北京市": { "population": 2189 },
+      "天津市": { "population": 1387 },
+      "海南省": { "population": 1008 }
+    },
+    "central": {
+      "河南省": { "population": 9815 },
+      "湖北省": { "population": 5775 },
+      "湖南省": { "population": 6644 },
+      "安徽省": { "population": 6103 },
+      "江西省": { "population": 4519 },
+      "山西省": { "population": 3492 }
+    },
+    "west": {
+      "四川省": { "population": 8367 },
+      "重庆市": { "population": 3205 },
+      "云南省": { "population": 4721 },
+      "贵州省": { "population": 3856 },
+      "陕西省": { "population": 3953 },
+      "甘肃省": { "population": 2502 },
+      "青海省": { "population": 593 },
+      "宁夏回族自治区": { "population": 720 },
+      "新疆维吾尔自治区": { "population": 2585 },
+      "西藏自治区": { "population": 364 }
+    },
+    "northeast": {
+      "辽宁省": { "population": 4259 },
+      "吉林省": { "population": 2407 },
+      "黑龙江省": { "population": 3185 },
+      "内蒙古自治区": { "population": 2405 }
+    }
+  }
+}

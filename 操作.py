@@ -1,7 +1,7 @@
 import json
 from pyecharts.charts import Map
 from pyecharts.options import *
-f = open("D:/date.json", "r", encoding="utf-8")  #数据来源2020年人口普查
+f = open("D:/date.json", "r", encoding="utf-8")  # 数据来源2020年人口普查
 date = json.load(f)
 f.close()
 date_list = []
